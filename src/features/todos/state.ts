@@ -1,5 +1,5 @@
 import { atom } from "recoil";
-import { atomKeys } from "../../common/recoilKeys";
+import { atomKeys } from "../../common/recoilAtomKeys";
 
 export type Todo = {
   id: number;
